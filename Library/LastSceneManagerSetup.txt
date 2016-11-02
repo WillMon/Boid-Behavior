@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/william.montero/Desktop/Making-Games/Cloth Physic's/Assets/Scene/Cloth
+    Simulation.unity
+  isLoaded: 1
+  isActive: 1
